@@ -1,14 +1,14 @@
 using Documenter
-using PACKAGE_NAME
+using PlutoEducation
 
 makedocs(
-    sitename = "PACKAGE_NAME",
-    modules = [PACKAGE_NAME]
+    sitename="PlutoEducation",
+    modules=[PlutoEducation]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
-#=deploydocs(
+#= deploydocs(
     repo = "<repository url>"
-)=#
+) =#

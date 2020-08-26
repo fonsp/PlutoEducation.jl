@@ -1,3 +1,3 @@
-# PACKAGE_NAME.jl
+# PlutoEducation.jl
 
-Documentation for PACKAGE_NAME.jl
+Documentation for PlutoEducation.jl

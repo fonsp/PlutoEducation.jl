@@ -1,6 +1,8 @@
-name = "PACKAGE_NAME"
-uuid = "PACKAGE_UUID"
-version = "1.0.0"
+name = "PlutoEducation"
+uuid = "f6268fb4-b0b0-4b88-af26-5408c475f00e"
+version = "0.0.1"
+authors = ["Fons van der Plas <fonsvdplas@gmail.com>"]
+
 
 [deps]
 

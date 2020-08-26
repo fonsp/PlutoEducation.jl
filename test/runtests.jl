@@ -1,5 +1,5 @@
-using PACKAGE_NAME, Test
+using PlutoEducation, Test
 
-@testset "PACKAGE_NAME" begin
-    @test 1 == 2
+@testset "PlutoEducation" begin
+    @test 1 == 1
 end
